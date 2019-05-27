@@ -9,6 +9,8 @@
 
 - [data_structures_geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
 
+- [200+ Data Structures - Important Topics](https://geeksforgeeks.quora.com/200+-Data-Structures-Important-Topics)
+
 - [algorithms_geeksforgeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 - [geeksforgeeks_youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists)
